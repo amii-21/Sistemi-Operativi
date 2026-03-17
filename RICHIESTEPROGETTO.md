@@ -125,12 +125,3 @@ Il gruppo di studenti deve produrre e consegnare, nell’archivio contenente il 
 config timeout.conf e config overload.conf) in grado di generare la terminazione nei casi sopra descritti.
 Al termine della simulazione, l’output del programma deve riportare anche la causa di terminazione e le
 statistiche finali.
-
-
-
-
-
-
-
-
-Per eseguire il progetto
