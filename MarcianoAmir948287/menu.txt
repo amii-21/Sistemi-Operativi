@@ -1,0 +1,6 @@
+PRIMO Pasta_al_Forno
+PRIMO Risotto_Zafferano
+SECONDO Cotoletta_con_Patate
+SECONDO Arrosto_con_Insalata
+CAFFE Normale
+CAFFE Macchiato
